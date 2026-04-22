@@ -6,11 +6,10 @@ This repository contains Python programs demonstrating **File Handling concepts*
 
 ## Project Structure
 
-'''
+
 file-handling-python/
 
 │
-
 ├── csv/
 
 │   ├── write_csv_writerow.py
