@@ -6,26 +6,26 @@ This repository contains Python programs demonstrating **File Handling concepts*
 
 ## Project Structure
 
-file-handling-python/
 '''
+file-handling-python/
 │
 ├── csv/
-│   ├── write_csv_writerow.py
-│   ├── write_csv_writerows.py
-│   ├── read_csv.py
-│   ├── append_csv.py
-│   └── employees.csv
+│ ├── write_csv_writerow.py
+│ ├── write_csv_writerows.py
+│ ├── read_csv.py
+│ ├── append_csv.py
+│ └── employees.csv
 │
 ├── json/
-│   ├── read_json.py
-│   ├── json_to_csv.py
-│   └── students.json
+│ ├── read_json.py
+│ ├── json_to_csv.py
+│ └── students.json
 │
 ├── text_files/
-│   ├── write_text.py
-│   ├── read_text.py
-│   ├── append_text.py
-│   └── myfile.txt
+│ ├── write_text.py
+│ ├── read_text.py
+│ ├── append_text.py
+│ └── myfile.txt
 │
 └── README.md
 '''
