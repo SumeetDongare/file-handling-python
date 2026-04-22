@@ -47,7 +47,7 @@ file-handling-python/
 
 │
 
-└── README.md'''
+└── README.md
 ---
 
 ## CSV File Handling
